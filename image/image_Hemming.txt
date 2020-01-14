@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\image\image1.jpg  -- расстояние Хемминга --  3   ПОХОЖИЕ КАРТИНКИ   
+C:\Users\HP\Desktop\image\image2.jpg  -- расстояние Хемминга --  2   ПОХОЖИЕ КАРТИНКИ   
+C:\Users\HP\Desktop\image\image3.jpg  -- расстояние Хемминга --  7   ПОХОЖИЕ КАРТИНКИ   
+C:\Users\HP\Desktop\image\image4.jpg  -- расстояние Хемминга --  19 -  Небольшой шанс что это изображение - часть исходного
+C:\Users\HP\Desktop\image\image8.jpg  -- расстояние Хемминга --  3   ПОХОЖИЕ КАРТИНКИ   
+C:\Users\HP\Desktop\image\image9.jpg  -- расстояние Хемминга --  8   ПОХОЖИЕ КАРТИНКИ   
+C:\Users\HP\Desktop\image\image10.jpg  -- расстояние Хемминга --  2   ПОХОЖИЕ КАРТИНКИ   
+C:\Users\HP\Desktop\image\image11.jpg  -- расстояние Хемминга --  7   ПОХОЖИЕ КАРТИНКИ   
